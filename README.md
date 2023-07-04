@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on different open sources
 - 💬 Ask me about coding and different ideas for projects
 - 📫 How to reach me through social media links
-- ⚡ Fun fact: I can play several instruments including Piano and Guita. I love to play video games.
+- ⚡ Fun fact: I can play several instruments including Piano and Guitar. I love to play video games.
 -->
 
 ---
