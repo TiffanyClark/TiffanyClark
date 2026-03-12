@@ -14,7 +14,7 @@ I have 6 years experience -> web design college -> coding bootcamp -> practicing
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 
-  <a href="https://tiffany@tiffanyclark.dev">
+  <a href="https://tiffanylclark85@yahoo.com">
     <img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
