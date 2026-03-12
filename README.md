@@ -1,5 +1,5 @@
 ### Hi there I am Tiffany 👋 
-I have 6 years experience -> web design college -> coding bootcamp -> practicing frontend skills which the following projects reflect.While learning to become a Software Engineer, I believe and expericed many challenges during my journey. Learning Front End development takes a lot of patience and dedication. Everyday I become more excited from learning things such Bootstrap, Javascipt, Grid, Etc,
+I have 6 years experience -> web design college -> coding bootcamp -> practicing frontend skills which the following projects reflect.While learning to become a Software Engineer, I believe and expericed many challenges during my journey. Coding is life. Everyday I am excited to learn something new.  I have participated in several cohorts such as #100Devs, FreeCodecamp, and DSD(Dallas Software Developers).
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
